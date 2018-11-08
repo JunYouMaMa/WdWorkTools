@@ -1,0 +1,107 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Fragment (const.py:42).py" timestamp="1541658425666">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541658863785">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1541575193083">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/Python/bottle/我的第一个python web开发框架（9）——目录与配置说明/code/main.py" timestamp="1541641493814" />
+      <file name="D:/GitWorkspace/WdWorkTools/config/const.py" timestamp="1541658879276">
+        <mark key="'" line="0" column="2" />
+      </file>
+      <file name="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/views/info.tpl" timestamp="1541575764509" />
+      <file name="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/HelloWorld.py" timestamp="1541575214642">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
+      <file name="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/views/login.tpl" timestamp="1541575789997" />
+      <file name="F:/Python/bottle/我的第一个python web开发框架（9）——目录与配置说明/code/api/__init__.py" timestamp="1541642237318" />
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/HelloWorld.py" />
+      <jump line="8" column="29" filename="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/HelloWorld.py" />
+      <jump line="0" column="2" filename="D:/GitWorkspace/WdWorkTools/config/const.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">QHJvdXRlKCcvbG9naW4nKQpkZWYgbG9naW4oKToKICAgICIiIgogICAg1eLA77K71ri2qLe9t6jKsaOsxKzIz77NysdHRVS3vbeoCiAgICC1x8K90rPD5qOsaHRtbLT6wuu2vMrH1rG907TT1eLA77e1u9i1vc340rPW0MiltcSjrMjnufuyu7T4yM66zre9t6ijrLTLuq/K/b2rz+zTpgogICAgudjT2sSjsOW1xMq508OjrLrzw+a/zrPMu+G9srW9CiAgICAiIiIKICAgIHJldHVybiAnJycKICAgICAgICA8aHRtbD4KICAgICAgICA8aGVhZD4KICAgICAgICA8L2hlYWQ+CiAgICAgICAgPGJvZHk+CiAgICAgICAgPGZvcm0gYWN0aW9uPSIvbG9naW4iIG1ldGhvZD0icG9zdCI+CiAgICAgICAgICAgIFVzZXJuYW1lOiA8aW5wdXQgbmFtZT0idXNlcm5hbWUiIHR5cGU9InRleHQiIC8+CiAgICAgICAgICAgIFBhc3N3b3JkOiA8aW5wdXQgbmFtZT0icGFzc3dvcmQiIHR5cGU9InBhc3N3b3JkIiAvPgogICAgICAgICAgICA8aW5wdXQgdmFsdWU9IkxvZ2luIiB0eXBlPSJzdWJtaXQiIC8+CiAgICAgICAgPC9mb3JtPgogICAgICAgIDwvYm9keT4KICAgICAgICA8L2h0bWw+CiAgICAnJycKCgpAcm91dGUoJy9sb2dpbicsIG1ldGhvZD0nUE9TVCcpCmRlZiBkb19sb2dpbigpOgogICAgIiIiCiAgICC6r8r9w/vX1svm0uK2qKOs1eLA78rHvfjQ0FBPU1S2r9f3tcSjrMv50tTTw8HLZG9fbG9naW6jrLqvyv3D+7K7xNzT68ewuvO6r8r909DNrMP7CiAgICC1x8K9tq/X96Os1eLA79PDwctwb3N0o6zSsr7Nyse1sbfDzspsb2dpbtKzw+ajrM2syrG0+MHLUE9TVMfrx/PKsaOs1eK49rqvyv29q8/s06YKICAgICIiIgogICAgdXNlcm5hbWUgPSByZXF1ZXN0LmZvcm1zLmdldCgndXNlcm5hbWUnKQogICAgcGFzc3dvcmQgPSByZXF1ZXN0LmZvcm1zLmdldCgncGFzc3dvcmQnKQogICAgcmV0dXJuICc8cD7VyrrFOiVzPC9wPjxwPsPcwus6JXM8L3A+JyAlICh1c2VybmFtZSwgcGFzc3dvcmQgKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text># 数据库名称</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ZGVmIGhlbGxvICggKToKICAgIHJldHVybiAiPEg+SGVsbG8gV29ybGQhPC9IPiIK</text>
+      </register>
+      <register name="3" type="4">
+        <text>from beaker.middleware import SessionMiddleware
+
+# 设置session参数
+session_opts = {
+    'session.type': 'file',
+    'session.cookie_expires': 3600,
+    'session.data_dir': '/tmp/sessions/simple',
+    'session.auto': True
+}
+
+
+@get('/index/')
+def callback():
+    return 'Hello World! Index'
+
+
+# 函数主入口
+if __name__ == '__main__':
+    app_argv = SessionMiddleware(default_app(), session_opts)
+    run(app=app_argv, host='0.0.0.0', port=8080, debug=True, reloader=True)</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KIyAtKi0gY29kaW5nOiBVVEYtOCAtKi0KCmZyb20gYm90dGxlIGltcG9ydCByb3V0ZSwgcnVuCgoKQHJvdXRlKCcvaGVsbG8vOm5hbWUnKQpkZWYgaW5kZXgobmFtZT0nV29ybGQnKToKICAgIHJldHVybiAnPGI+SGVsbG8gJXMhPC9iPicgJSBuYW1lCgoKcnVuKGhvc3Q9J2xvY2FsaG9zdCcsIHBvcnQ9ODA4MCk=</text>
+      </register>
+      <register name="-" type="4">
+        <text># 数据库名称</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxBdXRob3JcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxBdXRob3JcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxBdXRob3JcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxBdXRob3JcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
