@@ -3,46 +3,76 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Fragment (const.py:42).py" timestamp="1541658425666">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1541658863785">
+      <file name="D:/GitWorkspace/WdProductionTools/common/except_helper.py" timestamp="1541662495428" />
+      <file name="/Python Console" timestamp="1541663945884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541575193083">
+      <file name="/a.dummy" timestamp="1541661830354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Python/bottle/我的第一个python web开发框架（9）——目录与配置说明/code/main.py" timestamp="1541641493814" />
+      <file name="D:/GitWorkspace/WdProductionTools/config/const.py" timestamp="1541663595790" />
+      <file name="D:/GitWorkspace/WdProductionTools/common/__init__.py" timestamp="1541662198927" />
+      <file name="D:/GitWorkspace/WdProductionTools/common/encrypt_helper.py" timestamp="1541662503467" />
+      <file name="D:/GitWorkspace/WdProductionTools/common/db_helper.py" timestamp="1541663937181">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/GitWorkspace/WdProductionTools/common/log_helper.py" timestamp="1541663627973">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
       <file name="D:/GitWorkspace/WdWorkTools/config/const.py" timestamp="1541658879276">
         <mark key="'" line="0" column="2" />
       </file>
-      <file name="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/views/info.tpl" timestamp="1541575764509" />
-      <file name="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/HelloWorld.py" timestamp="1541575214642">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
+      <file name="D:/GitWorkspace/WdProductionTools/api/__init__.py" timestamp="1541662583481" />
+      <file name="D:/GitWorkspace/WdProductionTools/common/random_helper.py" timestamp="1541662362043" />
+      <file name="D:/GitWorkspace/WdProductionTools/common/web_helper.py" timestamp="1541662230900" />
+      <file name="D:/GitWorkspace/WdProductionTools/common/string_helper.py" timestamp="1541662348130" />
+      <file name="/Dummy.txt" timestamp="1541661149935">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/views/login.tpl" timestamp="1541575789997" />
-      <file name="F:/Python/bottle/我的第一个python web开发框架（9）——目录与配置说明/code/api/__init__.py" timestamp="1541642237318" />
+      <file name="D:/GitWorkspace/WdProductionTools/main.py" timestamp="1541663619366">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+      </file>
+      <file name="D:/GitWorkspace/WdProductionTools/common/json_helper.py" timestamp="1541662485770" />
+      <file name="D:/GitWorkspace/WdProductionTools/common/verify_helper.py" timestamp="1541662329160" />
+      <file name="D:/GitWorkspace/WdProductionTools/config/__int__.py" timestamp="1541661750582">
+        <mark key="[" line="5" column="10" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/HelloWorld.py" />
       <jump line="8" column="29" filename="D:/GitWorkspace/MyExercisePrj/MyFirstPycharmPrj/HelloWorld.py" />
       <jump line="0" column="2" filename="D:/GitWorkspace/WdWorkTools/config/const.py" />
+      <jump line="2" column="2" filename="D:/GitWorkspace/WdProductionTools/main.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">QHJvdXRlKCcvbG9naW4nKQpkZWYgbG9naW4oKToKICAgICIiIgogICAg1eLA77K71ri2qLe9t6jKsaOsxKzIz77NysdHRVS3vbeoCiAgICC1x8K90rPD5qOsaHRtbLT6wuu2vMrH1rG907TT1eLA77e1u9i1vc340rPW0MiltcSjrMjnufuyu7T4yM66zre9t6ijrLTLuq/K/b2rz+zTpgogICAgudjT2sSjsOW1xMq508OjrLrzw+a/zrPMu+G9srW9CiAgICAiIiIKICAgIHJldHVybiAnJycKICAgICAgICA8aHRtbD4KICAgICAgICA8aGVhZD4KICAgICAgICA8L2hlYWQ+CiAgICAgICAgPGJvZHk+CiAgICAgICAgPGZvcm0gYWN0aW9uPSIvbG9naW4iIG1ldGhvZD0icG9zdCI+CiAgICAgICAgICAgIFVzZXJuYW1lOiA8aW5wdXQgbmFtZT0idXNlcm5hbWUiIHR5cGU9InRleHQiIC8+CiAgICAgICAgICAgIFBhc3N3b3JkOiA8aW5wdXQgbmFtZT0icGFzc3dvcmQiIHR5cGU9InBhc3N3b3JkIiAvPgogICAgICAgICAgICA8aW5wdXQgdmFsdWU9IkxvZ2luIiB0eXBlPSJzdWJtaXQiIC8+CiAgICAgICAgPC9mb3JtPgogICAgICAgIDwvYm9keT4KICAgICAgICA8L2h0bWw+CiAgICAnJycKCgpAcm91dGUoJy9sb2dpbicsIG1ldGhvZD0nUE9TVCcpCmRlZiBkb19sb2dpbigpOgogICAgIiIiCiAgICC6r8r9w/vX1svm0uK2qKOs1eLA78rHvfjQ0FBPU1S2r9f3tcSjrMv50tTTw8HLZG9fbG9naW6jrLqvyv3D+7K7xNzT68ewuvO6r8r909DNrMP7CiAgICC1x8K9tq/X96Os1eLA79PDwctwb3N0o6zSsr7Nyse1sbfDzspsb2dpbtKzw+ajrM2syrG0+MHLUE9TVMfrx/PKsaOs1eK49rqvyv29q8/s06YKICAgICIiIgogICAgdXNlcm5hbWUgPSByZXF1ZXN0LmZvcm1zLmdldCgndXNlcm5hbWUnKQogICAgcGFzc3dvcmQgPSByZXF1ZXN0LmZvcm1zLmdldCgncGFzc3dvcmQnKQogICAgcmV0dXJuICc8cD7VyrrFOiVzPC9wPjxwPsPcwus6JXM8L3A+JyAlICh1c2VybmFtZSwgcGFzc3dvcmQgKQo=</text>
+        <text encoding="base64">CgpAaG9vaygnYmVmb3JlX3JlcXVlc3QnKQpkZWYgdmFsaWRhdGUoKToKICAgICIiIsq508O5tNfTtKbA7b3Tv9q3w87KysK8/iIiIgoKICAgICMgu/HIobWxx7C3w87KtcRVcmzCt762CiAgICBwYXRoX2luZm8gPSByZXF1ZXN0LmVudmlyb24uZ2V0KCJQQVRIX0lORk8iKQogICAgIyC5/cLLsrvTw9f2yM66zrLZ1/e1xMK308mjqLy0uf3Cy7K708O9+NDQxdC2z8rHt/G1x8K8us28x8K8yNXWvrXEdXJso6kKICAgIGlmIHBhdGhfaW5mbyBpbiBbJy9mYXZpY29uLmljbycsICcvJywgJy9hcGkvdmVyaWZ5LyddOgogICAgICAgIHJldHVybgogICAgIyMjILzHwry/zbuntsvM4b27tcSyzsr9ICMjIwogICAgIyC78cihtbHHsLfDzsp1cmzCt7620+tpcAogICAgcmVxdWVzdF9sb2cgPSAndXJsOicgKyBwYXRoX2luZm8gKyAnIGlwOicgKyB3ZWJfaGVscGVyLmdldF9pcCgpCiAgICB0cnk6CiAgICAgICAgIyDM7bzTanNvbre9yr3M4b27tcSyzsr9CiAgICAgICAgaWYgcmVxdWVzdC5qc29uOgogICAgICAgICAgICByZXF1ZXN0X2xvZyA9IHJlcXVlc3RfbG9nICsgJyBwYXJhbXMoanNvbik6JyArIHVybGxpYi5wYXJzZS51bnF1b3RlKHN0cihyZXF1ZXN0Lmpzb24pKQogICAgZXhjZXB0OgogICAgICAgIHBhc3MKICAgIHRyeToKICAgICAgICAjIMztvNNHRVS3vcq9zOG9u7XEss7K/QogICAgICAgIGlmIHJlcXVlc3QucXVlcnlfc3RyaW5nOgogICAgICAgICAgICByZXF1ZXN0X2xvZyA9IHJlcXVlc3RfbG9nICsgJyBwYXJhbXMoZ2V0KTonICsgdXJsbGliLnBhcnNlLnVucXVvdGUoc3RyKHJlcXVlc3QucXVlcnlfc3RyaW5nKSkKICAgICAgICAjIMztvNNQT1NUt73Kvczhvbu1xLLOyv0KICAgICAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnUE9TVCc6CiAgICAgICAgICAgIHJlcXVlc3RfbG9nID0gcmVxdWVzdF9sb2cgKyAnIHBhcmFtcyhwb3N0KTonICsgdXJsbGliLnBhcnNlLnVucXVvdGUoc3RyKHJlcXVlc3QucGFyYW1zLl9fZGljdF9fKSkKICAgICAgICAjILTmtKK1vcjV1r7OxLz+1tAKICAgICAgICBsb2dfaGVscGVyLmluZm8ocmVxdWVzdF9sb2cpCiAgICBleGNlcHQ6CiAgICAgICAgcGFzcwoKICAgICMgtKbA7WFqYXjM4b27tcRwdXShomRlbGV0ZbXIx+vH89equ7vOqrbU06a1xMfrx/PCt9PJo6jTydPaQUpBWLK71qez1lJFU1RmdWy357jxzOG9u6Osy/nS1NDo0qrU2tXiwO+0psDt0rvPwqOsttTM4b27t73Kvb340NDXqru7o6kKICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJyBhbmQgcmVxdWVzdC5QT1NULmdldCgnX21ldGhvZCcpOgogICAgICAgIHJlcXVlc3QuZW52aXJvblsnUkVRVUVTVF9NRVRIT0QnXSA9IHJlcXVlc3QuUE9TVC5nZXQoJ19tZXRob2QnLCAnJykKCiAgICAjILn9wsuyu9PDvfjQ0LXHwrzIqM/exdC2z7XEwrfTyaOotcfCvNPrzcuz9rXHwryyu9PDvOyy6crHt/HS0b6ttcfCvKOpCiAgICB1cmxfbGlzdCA9IFsiL2FwaS9sb2dpbi8iLCAiL2FwaS9sb2dvdXQvIl0KICAgIGlmIHBhdGhfaW5mbyBpbiB1cmxfbGlzdDoKICAgICAgICBwYXNzCiAgICBlbHNlOgogICAgICAgICMg0tG+rbXHwryzybmmtcTTw7unc2Vzc2lvbr/PtqjT0Na1o6zDu9PQ1rW1xL7NysfOtLXHwrwKICAgICAgICBzZXNzaW9uID0gd2ViX2hlbHBlci5nZXRfc2Vzc2lvbigpCiAgICAgICAgIyC78cih08O7p2lkCiAgICAgICAgbWFuYWdlcl9pZCA9IHNlc3Npb24uZ2V0KCdpZCcsIDApCiAgICAgICAgbG9naW5fbmFtZSA9IHNlc3Npb24uZ2V0KCdsb2dpbl9uYW1lJywgMCkKICAgICAgICAjIMXQts/Tw7unyse38bXHwrwKICAgICAgICBpZiBub3QgbWFuYWdlcl9pZCBvciBub3QgbG9naW5fbmFtZToKICAgICAgICAgICAgd2ViX2hlbHBlci5yZXR1cm5fcmFpc2Uod2ViX2hlbHBlci5yZXR1cm5fbXNnKC00MDQsICLE+rXEtcfCvNLRyqfQp6Osx+vW2NDCtcfCvCIpKQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text># 数据库名称</text>
+        <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiMhL3Vzci9iaW4vZXZuIHB5dGhvbgojIGNvZGluZz11dGYtOA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCgpmcm9tIGJvdHRsZSBpbXBvcnQgZGVmYXVsdF9hcHAsIGdldCwgcnVuLCBURU1QTEFURVMKZnJvbSBiZWFrZXIubWlkZGxld2FyZSBpbXBvcnQgU2Vzc2lvbk1pZGRsZXdhcmUKCgojILW8yOu5pL7fuq/K/bD8CmZyb20gY29tbW9uIGltcG9ydCB3ZWJfaGVscGVyLCBsb2dfaGVscGVyCiMgtbzI62FwabT6wuvEo7/po6iz9cq8u69hcGnOxLz+vNDA77XEuPe49rfDzsrCt9PJo6zV4tK7vuSyu8Tcyb6z/aOsyb6z/brzvavO3reot8POymFwac7EvP680MDvtcS497j2vdO/2qOpCmltcG9ydCBhcGkKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojILP1yry7r2JvdHRsZb/yvNzP4LnYss7K/QojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyC78cihtbHHsG1haW4ucHnOxLz+y/nU2rf+zvHG97XEvvi21MK3vrYKcHJvZ3JhbV9wYXRoID0gb3MucGF0aC5zcGxpdChvcy5wYXRoLnJlYWxwYXRoKF9fZmlsZV9fKSlbMF0KIyC9q8K3vrbM7bzTtb1weXRob267t76zseTBv9bQCnN5cy5wYXRoLmFwcGVuZChwcm9ncmFtX3BhdGgpCiMgyMPM4b27yv2+3dfutPO4xM6qMk2jqMjnufvP68nPtKu4/LbgtcTOxLz+o6y/ydLU1NrV4sDvvfjQ0NDeuMSjqQpib3R0bGUuQmFzZVJlcXVlc3QuTUVNRklMRV9NQVggPSAxMDI0ICogMTAyNCAqIDIKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojILP1yry7r8jV1r7P4LnYss7K/QojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyDI57n7yNXWvsS/wrxsb2fOxLz+vNCyu7Tm1NqjrNTytLS9qMjV1r7Ev8K8CmlmIG5vdCBvcy5wYXRoLmV4aXN0cygnbG9nJyk6CiAgICBvcy5ta2RpcignbG9nJykKIyCz9cq8u6/I1da+xL/CvMK3vrYKbG9nX3BhdGggPSBvcy5wYXRoLmpvaW4ocHJvZ3JhbV9wYXRoLCAnbG9nJykKIyC2qNLlyNXWvsrks/a48cq90+vCt762CmxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5JTkZPLAogICAgICAgICAgICAgICAgICAgIGZvcm1hdD0nJShhc2N0aW1lKXMgJShmaWxlbmFtZSlzW2xpbmU6JShsaW5lbm8pZF0gJShsZXZlbG5hbWUpcyAlKG1lc3NhZ2UpcycsCiAgICAgICAgICAgICAgICAgICAgZmlsZW5hbWU9IiVzL2luZm8ubG9nIiAlIGxvZ19wYXRoLAogICAgICAgICAgICAgICAgICAgIGZpbGVtb2RlPSdhJykKCgojIMno1sNzZXNzaW9uss7K/QpzZXNzaW9uX29wdHMgPSB7CiAgICAnc2Vzc2lvbi50eXBlJzogJ2ZpbGUnLAogICAgJ3Nlc3Npb24uY29va2llX2V4cGlyZXMnOiAzNjAwLAogICAgJ3Nlc3Npb24uZGF0YV9kaXInOiAnL3RtcC9zZXNzaW9ucy9zaW1wbGUnLAogICAgJ3Nlc3Npb24uYXV0byc6IFRydWUKfQoKCkBnZXQgKCAnL2luZGV4LycgKQpkZWYgY2FsbGJhY2sgKCApOgogICAgcmV0dXJuICdIZWxsbyBXb3JsZCEnCgoKIyC6r8r91vfI67/aCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBhcHBfYXJndiA9IFNlc3Npb25NaWRkbGV3YXJlICggZGVmYXVsdF9hcHAgKCkgLCBzZXNzaW9uX29wdHMgKQogICAgcnVuICggYXBwPWFwcF9hcmd2ICwgaG9zdD0nMC4wLjAuMCcgLCBwb3J0PTkwOTAgLCBkZWJ1Zz1UcnVlICwgcmVsb2FkZXI9VHJ1ZSApCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyMjINPKvP63/s7xss7K/SAjIyMKIyDTyrz+t/7O8cb3ClNNVFAgPSAnc210cC5xcS5jb20nCiMg08q8/rf+zvHG97bLv9oKUE9SVCA9IDQ2NQojIGVtYWlst6LLzdXLusUKRU1BSUxfVVNFUiA9ICd4eHh4eHhAcXEuY29tJwojIGVtYWlst6LLzcPcwusKRU1BSUxfUFdEID0gJ3h4eHh4eHh4eHh4JwojIM+1zbPS7LOj08q8/s2o1qq12Na3o6y24Lj2tdjWt9PDtrq6xbfWuPQKRU1BSUxfTElTVCA9ICd4eHh4eHhAcXEuY29tJwojINLss6PTyrz+zajWqrHqzOIKIyChqqGq08nT2s7Sw8fT0L+qt6K7t76zoaKy4srUu7e+s6Gi1KTJ+rL6u7e+s6Giyfqy+ru3vrO1yLbguPayu82stcS7t76zo6wKIyChqqGqy/nS1NTat6LLzdLss6PNqNaqyrHI57n7x/i31rXEu7CjrL/JxNy+zcWqsrvH5crHxMe49ru3vrOz9sHLzsrM4qOsCiMgoaqhqs7Sw8e/ydLUzai5/cno1sPTyrz+serM4s6qo7q/qreioaKy4srUoaLUpMn6svqhosn6svq1yLHqx6nAtLe9sePH+LfWysfEx7j2u7e+s7eiy821xNLss6PNqNaqCkVNQUlMX0VSUl9USVRMRSA9ICfPtc2z0uyzo82o1qotc2ltcGxlLb+qt6In</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">QHJvdXRlKCcvbG9naW4nKQpkZWYgbG9naW4oKToKICAgICIiIgogICAg1eLA77K71ri2qLe9t6jKsaOsxKzIz77NysdHRVS3vbeoCiAgICC1x8K90rPD5qOsaHRtbLT6wuu2vMrH1rG907TT1eLA77e1u9i1vc340rPW0MiltcSjrMjnufuyu7T4yM66zre9t6ijrLTLuq/K/b2rz+zTpgogICAgudjT2sSjsOW1xMq508OjrLrzw+a/zrPMu+G9srW9CiAgICAiIiIKICAgIHJldHVybiAnJycKICAgICAgICA8aHRtbD4KICAgICAgICA8aGVhZD4KICAgICAgICA8L2hlYWQ+CiAgICAgICAgPGJvZHk+CiAgICAgICAgPGZvcm0gYWN0aW9uPSIvbG9naW4iIG1ldGhvZD0icG9zdCI+CiAgICAgICAgICAgIFVzZXJuYW1lOiA8aW5wdXQgbmFtZT0idXNlcm5hbWUiIHR5cGU9InRleHQiIC8+CiAgICAgICAgICAgIFBhc3N3b3JkOiA8aW5wdXQgbmFtZT0icGFzc3dvcmQiIHR5cGU9InBhc3N3b3JkIiAvPgogICAgICAgICAgICA8aW5wdXQgdmFsdWU9IkxvZ2luIiB0eXBlPSJzdWJtaXQiIC8+CiAgICAgICAgPC9mb3JtPgogICAgICAgIDwvYm9keT4KICAgICAgICA8L2h0bWw+CiAgICAnJycKCgpAcm91dGUoJy9sb2dpbicsIG1ldGhvZD0nUE9TVCcpCmRlZiBkb19sb2dpbigpOgogICAgIiIiCiAgICC6r8r9w/vX1svm0uK2qKOs1eLA78rHvfjQ0FBPU1S2r9f3tcSjrMv50tTTw8HLZG9fbG9naW6jrLqvyv3D+7K7xNzT68ewuvO6r8r909DNrMP7CiAgICC1x8K9tq/X96Os1eLA79PDwctwb3N0o6zSsr7Nyse1sbfDzspsb2dpbtKzw+ajrM2syrG0+MHLUE9TVMfrx/PKsaOs1eK49rqvyv29q8/s06YKICAgICIiIgogICAgdXNlcm5hbWUgPSByZXF1ZXN0LmZvcm1zLmdldCgndXNlcm5hbWUnKQogICAgcGFzc3dvcmQgPSByZXF1ZXN0LmZvcm1zLmdldCgncGFzc3dvcmQnKQogICAgcmV0dXJuICc8cD7VyrrFOiVzPC9wPjxwPsPcwus6JXM8L3A+JyAlICh1c2VybmFtZSwgcGFzc3dvcmQgKQo=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ZGVmIGhlbGxvICggKToKICAgIHJldHVybiAiPEg+SGVsbG8gV29ybGQhPC9IPiIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>from beaker.middleware import SessionMiddleware
 
 # 设置session参数
@@ -64,26 +94,27 @@ if __name__ == '__main__':
     app_argv = SessionMiddleware(default_app(), session_opts)
     run(app=app_argv, host='0.0.0.0', port=8080, debug=True, reloader=True)</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KIyAtKi0gY29kaW5nOiBVVEYtOCAtKi0KCmZyb20gYm90dGxlIGltcG9ydCByb3V0ZSwgcnVuCgoKQHJvdXRlKCcvaGVsbG8vOm5hbWUnKQpkZWYgaW5kZXgobmFtZT0nV29ybGQnKToKICAgIHJldHVybiAnPGI+SGVsbG8gJXMhPC9iPicgJSBuYW1lCgoKcnVuKGhvc3Q9J2xvY2FsaG9zdCcsIHBvcnQ9ODA4MCk=</text>
       </register>
       <register name="-" type="4">
-        <text># 数据库名称</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdXRob3JcPg==</text>
+        <text encoding="base64">XDxjb25kaW5nXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBdXRob3JcPg==</last-search>
+      <last-search encoding="base64">XDxjb25kaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdXRob3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25kaW5nXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxBdXRob3JcPg==</entry>
+        <entry encoding="base64">XDxjb25kaW5nXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -101,6 +132,9 @@ if __name__ == '__main__':
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
